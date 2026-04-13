@@ -66,7 +66,9 @@ This dashboard summarizes monthly sales, profit margins, regional, category, and
 4. Enhance marketing strategies for the Furniture category.
 5. Strengthen customer service initiatives to drive higher customer retention
 
-
+### Conclusion
+---
+The overall insights from the dataset reveal weak performance, as reflected in the 8.44% annual profit margin, despite efforts to boost sales through promotional discount strategies across products. However, both sales and profitability can improve over time and across regions if the recommended actions are implemented.
 
 
 
