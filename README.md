@@ -5,10 +5,8 @@
 The report focuses on analysis of sales performance across time periods, locations, product categories, and customers behaviour. In order to find patterns, identify business opportunities, determine profitability of products and study customer behaviour.
 
 ### Tools Used:
-
-  •	SQL (CTEs, Joins, Aggregate Functions, Select Cases, Window Functions)
-  
-  •	 Power BI (DAX, PQE, Dashboarding) 
+- SQL (CTEs, Joins, Aggregate Functions, Select Cases, Window Functions)
+- Power BI (DAX, PQE, Dashboarding)
 
 ### Data Source
   Online Sales Data downloaded from Kaggle 
