@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce Performance
 
 ### Project Overview
 ---
@@ -26,10 +26,11 @@ The report focuses on analysis of sales performance across time periods, locatio
   - [Download here](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data)
 
 #### Tables:
-  Orders, Details. 
+- Orders
+- Details. 
 
 #### Time Period: 
-  January 2018 - December 2018
+- January 2018 - December 2018
 
 #### Key Columns: 
 - Order_Date
