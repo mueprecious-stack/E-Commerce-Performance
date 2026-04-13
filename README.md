@@ -21,7 +21,6 @@ The report focuses on analysis of sales performance across time periods, locatio
   January 2018 - December 2018
 
 #### Key Columns: 
----
 - Order_Date
 - Amount
 - Profit
@@ -44,5 +43,8 @@ The report focuses on analysis of sales performance across time periods, locatio
 2. Creating measures using DAX functions to represent KPIs
 3. Visualization of KPIs and graphical representation of trends and performance.
 4. Dashboarding
+
+### Dashboard Overview
+This dashboard summarizes monthly sales, profit margins, regional, category, and product performance, and customer segmentation and purchase behaviour, with slicers for detailed analysis.
 
 
