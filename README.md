@@ -34,7 +34,7 @@ The report focuses on analysis of sales performance across time periods, locatio
  1. Base Data Selection
 ```SELECT * FROM Orders O JOIN Details D ON O.Order_ID = D.Order_ID```
 2. Querying performance metrics
-3. Analysis based on months, regions, categories, products, and customer behaviour.
+3. Analysis based on months, regions, categories, products, and customer behaviour to draw insights.
 4. Creating customers’ table.
    
 ### Data Visualization
@@ -48,6 +48,24 @@ The report focuses on analysis of sales performance across time periods, locatio
 This dashboard summarizes monthly sales, profit margins, regional, category, and product performance, as well as customer segmentation and purchase behavior, with slicers for detailed analysis. It also includes key annual KPIs.
 
 <img width="900" height="508" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/e4480322-7272-460f-a478-fca2136a7fbe" />
+
+### Business Insights
+---
+1. Sales peaked in January and declined in July according to unstable unit prices across product categories. February recorded the highest profit margin, while July saw the largest loss.
+2.All the categories incurred losses in May and July, suggesting that the promotional discount strategy undermined profitability.
+3. A high customer retention rate does not necessarily translate to strong profits. Among categories, Furniture has the lowest retention rate.
+4. Electronics emerged as the most profitable category when sold at full price, whereas clothing demonstrated lower risk even with discounting
+5. The average order per customer is one, indicating that one-time buyers outnumber returning customers.
+6. High sales can mask poor performance, as some top-selling products generate negative profit margins.
+
+### Recommendations
+---
+1. Increase product availability in the Electronics and Furniture categories to boost sales and improve customer retention.
+2. Review the pricing strategy for products such as sarees, tables, and furnishings.
+3. Reduce discount levels across all products, particularly in the Electronics category.
+4. Enhance marketing strategies for the Furniture category.
+5. Strengthen customer service initiatives to drive higher customer retention
+
 
 
 
