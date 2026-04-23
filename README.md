@@ -47,7 +47,7 @@ The report focuses on analysis of sales performance across time periods, locatio
 ```SELECT * FROM Orders O JOIN Details D ON O.Order_ID = D.Order_ID```
 2. Querying performance metrics
 3. Analysis based on months, regions, categories, products, and customer behaviour to draw insights.
-4. Creating customers’ table.
+4. Creating a customers’ table.
    
 ### Data Visualization
 ---
